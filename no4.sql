@@ -1,0 +1,1 @@
+SELECT avg(harga_detail) as ratarata FROM detail_pemesanan where month(now()) = month(created_at)

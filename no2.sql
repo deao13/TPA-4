@@ -1,0 +1,1 @@
+SELECT * FROM detail_pemesanan ORDER BY jumlah_detail desc limit 3

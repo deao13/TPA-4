@@ -1,0 +1,1 @@
+SELECT * FROM kategori_produk join produk on kategori_produk.id_kategori = produk.id_kategori order by stok_produk DESC limit 1
